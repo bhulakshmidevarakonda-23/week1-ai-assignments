@@ -1,0 +1,42 @@
+Enter your name: bhulakshmi
+Hello bhulakshmi, welcome to Smart Student Assistant!
+
+===== MENU =====
+1. Generate Study Tips
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+Choose an option (1-4): 1
+
+Study Tips:
+- Review notes daily
+- Practice coding regularly
+- Use flashcards for key terms
+- Teach concepts to a friend
+
+===== MENU =====
+1. Generate Study Tips
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+Choose an option (1-4): 2
+
+Motivation Quote:
+Learning never stops.
+
+===== MENU =====
+1. Generate Study Tips
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+Choose an option (1-4): 3
+
+Current Date & Time: 2026-05-30 12:30:00
+
+===== MENU =====
+1. Generate Study Tips
+2. Generate Motivation Quote
+3. Display Current Date & Time
+4. Exit
+Choose an option (1-4): 4
+Goodbye!
